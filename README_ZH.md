@@ -7,8 +7,7 @@
 </div>
 
 <p style="font-size: 15px">
-  This is a DDD (Domain-Driven Design) engineering practice project for go. The project shows how to hierarchical design the Go project structure according to DDD ideas.
+  这是一个go的DDD（领域驱动设计）工程实践项目，项目展示了如何按照DDD的思想进行Go项目结构分层设计。
 </p>
 
-English | [简体中文](./README_ZH.md)
-
+简体中文 | [简体中文](./README.md)
